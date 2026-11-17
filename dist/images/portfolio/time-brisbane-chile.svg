@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 128" role="img" aria-label="Two clock faces representing two time zones">
+  <rect x="4" y="4" width="152" height="120" rx="10" fill="#f6f5f2" stroke="#e4e2dc" stroke-width="2"/>
+  <circle cx="58" cy="64" r="30" fill="#ffffff" stroke="#1f3d3a" stroke-width="3"/>
+  <line x1="58" y1="64" x2="58" y2="46" stroke="#1f3d3a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="58" y1="64" x2="70" y2="64" stroke="#1f3d3a" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="106" cy="64" r="22" fill="#ffffff" stroke="#2f5b56" stroke-width="3"/>
+  <line x1="106" y1="64" x2="106" y2="50" stroke="#2f5b56" stroke-width="3" stroke-linecap="round"/>
+  <line x1="106" y1="64" x2="115" y2="70" stroke="#2f5b56" stroke-width="3" stroke-linecap="round"/>
+</svg>

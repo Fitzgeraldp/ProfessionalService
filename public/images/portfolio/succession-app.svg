@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 128" role="img" aria-label="Org chart icon representing succession planning">
+  <rect x="4" y="4" width="152" height="120" rx="10" fill="#f6f5f2" stroke="#e4e2dc" stroke-width="2"/>
+  <rect x="64" y="28" width="32" height="20" rx="4" fill="#1f3d3a"/>
+  <rect x="24" y="80" width="32" height="20" rx="4" fill="#2f5b56" opacity="0.85"/>
+  <rect x="104" y="80" width="32" height="20" rx="4" fill="#2f5b56" opacity="0.85"/>
+  <path d="M80 48 V64 M80 64 H40 V80 M80 64 H120 V80" fill="none" stroke="#1f3d3a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

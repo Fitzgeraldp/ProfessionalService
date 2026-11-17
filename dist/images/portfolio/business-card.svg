@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 128" role="img" aria-label="Business card icon with a contact avatar and text lines">
+  <rect x="4" y="4" width="152" height="120" rx="10" fill="#f6f5f2" stroke="#e4e2dc" stroke-width="2"/>
+  <rect x="24" y="36" width="112" height="56" rx="6" fill="#ffffff" stroke="#1f3d3a" stroke-width="3"/>
+  <circle cx="48" cy="64" r="12" fill="#2f5b56"/>
+  <line x1="70" y1="54" x2="118" y2="54" stroke="#1f3d3a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="70" y1="64" x2="110" y2="64" stroke="#2f5b56" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <line x1="70" y1="74" x2="100" y2="74" stroke="#2f5b56" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+</svg>

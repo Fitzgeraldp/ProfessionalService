@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 128" role="img" aria-label="Ruler with tick marks, representing a measurement tool">
+  <rect x="4" y="4" width="152" height="120" rx="10" fill="#f6f5f2" stroke="#e4e2dc" stroke-width="2"/>
+  <rect x="24" y="52" width="112" height="24" rx="4" fill="#ffffff" stroke="#1f3d3a" stroke-width="3"/>
+  <line x1="36" y1="52" x2="36" y2="64" stroke="#1f3d3a" stroke-width="2"/>
+  <line x1="52" y1="52" x2="52" y2="70" stroke="#1f3d3a" stroke-width="2"/>
+  <line x1="68" y1="52" x2="68" y2="64" stroke="#1f3d3a" stroke-width="2"/>
+  <line x1="84" y1="52" x2="84" y2="70" stroke="#1f3d3a" stroke-width="2"/>
+  <line x1="100" y1="52" x2="100" y2="64" stroke="#1f3d3a" stroke-width="2"/>
+  <line x1="116" y1="52" x2="116" y2="70" stroke="#1f3d3a" stroke-width="2"/>
+  <line x1="24" y1="76" x2="136" y2="76" stroke="#2f5b56" stroke-width="3" stroke-linecap="round"/>
+</svg>

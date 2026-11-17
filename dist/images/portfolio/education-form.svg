@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 128" role="img" aria-label="Graduation cap above form lines, representing an education form">
+  <rect x="4" y="4" width="152" height="120" rx="10" fill="#f6f5f2" stroke="#e4e2dc" stroke-width="2"/>
+  <path d="M80 26 L120 42 L80 58 L40 42 Z" fill="#1f3d3a"/>
+  <path d="M58 48 V66 Q58 74 80 74 Q102 74 102 66 V48" fill="none" stroke="#1f3d3a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="36" y1="90" x2="124" y2="90" stroke="#2f5b56" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <line x1="36" y1="100" x2="100" y2="100" stroke="#2f5b56" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+</svg>
